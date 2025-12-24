@@ -1,4 +1,4 @@
-# Jbnuu-Extension
+# Jbnuu-talaba hemisidan dars jadval olib beruvchi streamlit dasturi
 Jbnuu student hemisdagi dars jadvalining extensioni
 
 # 171-23 guruh talabasi Do'stbekova Charos tomonidan qilingan!
